@@ -1,0 +1,98 @@
+body {
+    /* min-block-size: 100vb; */
+    color: hsl(355.56deg 100% 0%);
+    font-family: sans sarif;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    background-image: linear-gradient(to right, hsl(355.56deg 100% 94.71%), hsl(167.23deg 85.45% 89.22%));
+}
+
+a {
+    text-decoration: none;
+    color: hsl(355.56deg 100% 0%);
+}
+a:visited {
+    color: hsl(355.56deg 100% 0%);;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+    gap: 2rem;
+}
+
+article {
+    /* background-color: hsla(356, 26%, 88%, 0.4); */
+    color: hsl(355.56deg 100% 0%);
+    flex: 1;
+    padding-inline: .8rem;
+    padding-block: .5rem;
+    border-radius: .5rem;
+
+}
+
+.posts {
+    display: flex;
+    flex-direction: column;
+    gap: .05rem;
+    margin-block: 1px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.03);
+    padding-block: .8rem;
+    padding-inline: 1.8rem;
+}
+
+.author {
+    display: flex;
+    gap: .3rem;
+    font-size: 20px;
+}
+
+.author img {
+    width:25px;
+    height:25px;
+}
+
+.com__section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon {
+    width: 16px;
+    height: 16px;
+}
+
+.comment__like > time, .comment__like > span {
+    
+}
+
+.save__more > img {
+    margin: .8rem;
+}
+
+aside {
+    background-color: hsl(189, 49%, 89%);
+    color: hsl(167.23deg 85.45% 5%);
+    flex: .5;
+    padding-inline: .8rem;
+    padding-block: .5rem;
+    border-radius: .5rem;
+
+}
+
+.aside {
+    display: flex;
+    flex-direction: column;
+    gap: .3rem;
+}
+
+button {
+    font-weight: bold;
+    border-radius: .8rem;
+    border: none;
+    padding: .5rem;
+    background-color: hsl(180, 4%, 80%);
+}

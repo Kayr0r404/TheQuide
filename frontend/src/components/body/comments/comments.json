@@ -1,0 +1,193 @@
+[{
+  "post_id": 101,
+  "postTitle": "The Art of Storytelling",
+  "comments": [
+    {
+      "commentId": "1",
+      "author": "JaneDoe",
+      "content": "This is such an insightful post! I love how you break down the nuances of storytelling.",
+      "timestamp": "2023-10-01T12:34:56Z",
+      "replies": [
+        {
+          "commentId": "1.1",
+          "author": "JohnSmith",
+          "content": "I completely agree, Jane! The section on character development was particularly enlightening.",
+          "timestamp": "2023-10-01T13:00:00Z",
+          "replies": [
+            {
+              "commentId": "1.1.1",
+              "author": "AliceW",
+              "content": "Yes, John! I think the author really nailed the importance of backstory.",
+              "timestamp": "2023-10-01T13:15:00Z",
+              "replies": []
+            }
+          ]
+        },
+        {
+          "commentId": "1.2",
+          "author": "BobBrown",
+          "content": "I found the pacing section a bit rushed. What do you think, Jane?",
+          "timestamp": "2023-10-01T13:30:00Z",
+          "replies": [
+            {
+              "commentId": "1.2.1",
+              "author": "JaneDoe",
+              "content": "I see your point, Bob. Maybe the author could expand on that in a follow-up post.",
+              "timestamp": "2023-10-01T14:00:00Z",
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "commentId": "2",
+      "author": "EvaGreen",
+      "content": "I’ve been struggling with writer’s block, and this post gave me some fresh ideas. Thank you!",
+      "timestamp": "2023-10-02T09:15:00Z",
+      "replies": [
+        {
+          "commentId": "2.1",
+          "author": "MikeT",
+          "content": "Same here, Eva! The tips on brainstorming were especially helpful.",
+          "timestamp": "2023-10-02T10:00:00Z",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "commentId": "3",
+      "author": "ChrisP",
+      "content": "Does anyone have recommendations for books on advanced storytelling techniques?",
+      "timestamp": "2023-10-02T11:45:00Z",
+      "replies": [
+        {
+          "commentId": "3.1",
+          "author": "LauraM",
+          "content": "I highly recommend 'Story' by Robert McKee. It’s a classic!",
+          "timestamp": "2023-10-02T12:00:00Z",
+          "replies": [
+            {
+              "commentId": "3.1.1",
+              "author": "ChrisP",
+              "content": "Thanks, Laura! I’ll check it out.",
+              "timestamp": "2023-10-02T12:15:00Z",
+              "replies": []
+            }
+          ]
+        },
+        {
+          "commentId": "3.2",
+          "author": "TomH",
+          "content": "'The Hero with a Thousand Faces' by Joseph Campbell is another great read.",
+          "timestamp": "2023-10-02T12:30:00Z",
+          "replies": []
+        }
+      ]
+    }
+  ]
+},
+{
+  "post_id": 102,
+  "postTitle": "Overcoming Writer's Block",
+  "comments": [
+    {
+      "commentId": "2",
+      "author": "EvaGreen",
+      "content": "I’ve been struggling with writer’s block, and this post gave me some fresh ideas. Thank you!",
+      "timestamp": "2023-10-02T09:15:00Z",
+      "replies": [
+        {
+          "commentId": "2.1",
+          "author": "MikeT",
+          "content": "Same here, Eva! The tips on brainstorming were especially helpful.",
+          "timestamp": "2023-10-02T10:00:00Z",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "commentId": "3",
+      "author": "ChrisP",
+      "content": "Does anyone have recommendations for books on advanced storytelling techniques?",
+      "timestamp": "2023-10-02T11:45:00Z",
+      "replies": [
+        {
+          "commentId": "3.1",
+          "author": "LauraM",
+          "content": "I highly recommend 'Story' by Robert McKee. It’s a classic!",
+          "timestamp": "2023-10-02T12:00:00Z",
+          "replies": [
+            {
+              "commentId": "3.1.1",
+              "author": "ChrisP",
+              "content": "Thanks, Laura! I’ll check it out.",
+              "timestamp": "2023-10-02T12:15:00Z",
+              "replies": []
+            }
+          ]
+        },
+        {
+          "commentId": "3.2",
+          "author": "TomH",
+          "content": "'The Hero with a Thousand Faces' by Joseph Campbell is another great read.",
+          "timestamp": "2023-10-02T12:30:00Z",
+          "replies": []
+        }
+      ]
+    }
+  ]
+},
+{
+  "post_id": 103,
+  "postTitle": "The Power of Dialogue in Fiction",
+  "comments": [
+    {
+      "commentId": "4",
+      "author": "SarahL",
+      "content": "This post really opened my eyes to how dialogue can drive a story forward. Great job!",
+      "timestamp": "2023-10-03T08:00:00Z",
+      "replies": [
+        {
+          "commentId": "4.1",
+          "author": "MarkR",
+          "content": "I agree, Sarah! The examples were spot on.",
+          "timestamp": "2023-10-03T08:30:00Z",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "commentId": "6",
+      "author": "Karabo",
+      "content": "Honk That Bitch!",
+      "timestamp": "2025-02-03T08:00:00Z",
+      "replies": [
+      ]
+    },
+    {
+      "commentId": "5",
+      "author": "EmilyW",
+      "content": "I’d love to see more examples of dialogue in different genres. Any suggestions?",
+      "timestamp": "2023-10-03T09:00:00Z",
+      "replies": [
+        {
+          "commentId": "5.1",
+          "author": "SarahL",
+          "content": "Emily, I recommend reading 'The Catcher in the Rye' for realistic dialogue and 'Dune' for sci-fi.",
+          "timestamp": "2023-10-03T09:15:00Z",
+          "replies": [
+            {
+              "commentId": "5.1.1",
+              "author": "EmilyW",
+              "content": "Thanks, Sarah! I’ll add those to my reading list.",
+              "timestamp": "2023-10-03T09:30:00Z",
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+]

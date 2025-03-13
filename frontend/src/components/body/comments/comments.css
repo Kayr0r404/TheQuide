@@ -1,0 +1,36 @@
+
+.post {
+    margin-inline: 15rem;
+}
+
+.sec {
+    display: block;
+}
+
+.article {
+    font-size: 20px;
+    border-radius: 8px;
+    padding-inline: 1rem;
+    margin-block: .3rem;
+}
+.comment {
+    margin-block: .3rem;
+}
+
+.create__comment {
+    display: block;
+    float: none;
+    font-size: 12px;
+    height: 5em;
+    width: 60%;
+    background-color: hsl(191, 31%, 93%);
+    resize: vertical; /* Allows users to adjust the height */
+    word-wrap: break-word;
+    
+}
+
+@media (max-width: 768px) {
+	.create__comment {
+   		width: 100%;
+	}
+}

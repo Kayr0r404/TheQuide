@@ -1,0 +1,164 @@
+[{
+    "authors": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "bio": "Passionate writer and storyteller. Loves exploring historical fiction and sci-fi.",
+        "avatar": "https://i.pravatar.cc/150?img=1"
+      },
+      {
+        "id": 2,
+        "name": "Brian Smith",
+        "email": "brian@example.com",
+        "bio": "Tech blogger and AI enthusiast. Writes about the latest in software development.",
+        "avatar": "https://i.pravatar.cc/150?img=2"
+      },
+      {
+        "id": 3,
+        "name": "Clara Mendes",
+        "email": "clara@example.com",
+        "bio": "Poet and travel writer. Finds inspiration in cultures around the world.",
+        "avatar": "https://i.pravatar.cc/150?img=3"
+      },
+      {
+        "id": 4,
+        "name": "Daniel Carter",
+        "email": "daniel@example.com",
+        "bio": "Business strategist and finance expert. Helps startups scale efficiently.",
+        "avatar": "https://i.pravatar.cc/150?img=4"
+      },
+      {
+        "id": 5,
+        "name": "Emily Davis",
+        "email": "emily@example.com",
+        "bio": "Self-improvement and productivity coach. Writes about habits and motivation.",
+        "avatar": "https://i.pravatar.cc/150?img=5"
+      },
+      {
+        "id": 6,
+        "name": "Francis Lee",
+        "email": "francis@example.com",
+        "bio": "Philosopher and deep thinker. Explores existentialism and modern society.",
+        "avatar": "https://i.pravatar.cc/150?img=6"
+      },
+      {
+        "id": 7,
+        "name": "Grace Wilson",
+        "email": "grace@example.com",
+        "bio": "Mental health advocate and psychologist. Shares insights on well-being.",
+        "avatar": "https://i.pravatar.cc/150?img=7"
+      },
+      {
+        "id": 8,
+        "name": "Henry Adams",
+        "email": "henry@example.com",
+        "bio": "Political analyst and history buff. Breaks down world events.",
+        "avatar": "https://i.pravatar.cc/150?img=8"
+      },
+      {
+        "id": 9,
+        "name": "Ivy Moore",
+        "email": "ivy@example.com",
+        "bio": "Nutritionist and wellness writer. Talks about health and diet trends.",
+        "avatar": "https://i.pravatar.cc/150?img=9"
+      },
+      {
+        "id": 10,
+        "name": "Jack Thompson",
+        "email": "jack@example.com",
+        "bio": "Film critic and pop culture enthusiast. Reviews movies and TV shows.",
+        "avatar": "https://i.pravatar.cc/150?img=10"
+      },
+      {
+        "id": 11,
+        "name": "Kylie Roberts",
+        "email": "kylie@example.com",
+        "bio": "Fashion blogger and designer. Writes about latest fashion trends.",
+        "avatar": "https://i.pravatar.cc/150?img=11"
+      },
+      {
+        "id": 12,
+        "name": "Lucas Green",
+        "email": "lucas@example.com",
+        "bio": "Music producer and DJ. Explores music history and production techniques.",
+        "avatar": "https://i.pravatar.cc/150?img=12"
+      },
+      {
+        "id": 13,
+        "name": "Mia White",
+        "email": "mia@example.com",
+        "bio": "Children’s book author. Creates stories that inspire young minds.",
+        "avatar": "https://i.pravatar.cc/150?img=13"
+      },
+      {
+        "id": 14,
+        "name": "Nathan Brown",
+        "email": "nathan@example.com",
+        "bio": "Adventure traveler and blogger. Explores off-the-beaten-path destinations.",
+        "avatar": "https://i.pravatar.cc/150?img=14"
+      },
+      {
+        "id": 15,
+        "name": "Olivia King",
+        "email": "olivia@example.com",
+        "bio": "Science communicator and researcher. Simplifies complex topics for everyone.",
+        "avatar": "https://i.pravatar.cc/150?img=15"
+      }
+    ],
+    "posts": [
+      {
+        "id": 101,
+        "title": "The Future of AI in Everyday Life",
+        "content": "Artificial Intelligence is rapidly transforming how we live and work...",
+        "author_id": 2,
+        "date_published": "2025-02-14",
+        "likes": 120,
+        "tags": ["AI", "Technology", "Future"]
+      },
+      {
+        "id": 102,
+        "title": "Exploring the Ruins of Ancient Civilizations",
+        "content": "History holds fascinating secrets, and ancient ruins tell stories of forgotten times...",
+        "author_id": 1,
+        "date_published": "2025-02-13",
+        "likes": 85,
+        "tags": ["History", "Travel", "Archaeology"]
+      },
+      {
+        "id": 103,
+        "title": "How to Stay Motivated and Productive",
+        "content": "Here are five science-backed methods to stay productive in a digital world...",
+        "author_id": 5,
+        "date_published": "2025-02-12",
+        "likes": 97,
+        "tags": ["Productivity", "Motivation", "Work"]
+      }
+    ],
+    "comments": [
+      {
+        "id": 1001,
+        "post_id": 101,
+        "author": "David Kim",
+        "content": "Great insights! AI is definitely changing everything.",
+        "date_posted": "2025-02-14"
+      },
+      {
+        "id": 1002,
+        "post_id": 102,
+        "author": "Emma Lopez",
+        "content": "I visited Machu Picchu last year—truly an amazing experience!",
+        "date_posted": "2025-02-13"
+      },
+      {
+        "id": 1003,
+        "post_id": 103,
+        "author": "James Carter",
+        "content": "Loved this article! These tips are practical and easy to follow.",
+        "date_posted": "2025-02-12"
+      }
+    ]
+}]
+
+
+  

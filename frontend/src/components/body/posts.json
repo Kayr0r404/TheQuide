@@ -1,0 +1,38 @@
+[
+    {
+      "id": 101,
+      "title": "The Future of AI in Everyday Life",
+      "content": "Artificial Intelligence is rapidly transforming how we live and work...",
+      "author_id": 2,
+      "date_published": "2025-02-14",
+      "likes": 120,
+      "tags": ["AI", "Technology", "Future"]
+    },
+    {
+      "id": 102,
+      "title": "Exploring the Ruins of Ancient Civilizations",
+      "content": "History holds fascinating secrets, and ancient ruins tell stories of forgotten times...",
+      "author_id": 1,
+      "date_published": "2025-02-13",
+      "likes": 85,
+      "tags": ["History", "Travel", "Archaeology"]
+    },
+    {
+      "id": 104,
+      "title": "Ancient ocean exploration",
+      "content": "History holds fascinating secrets, and ancient ruins tell stories of forgotten times...",
+      "author_id": 16,
+      "date_published": "2025-02-18",
+      "likes": 1085,
+      "tags": ["History", "Travel", "Archaeology"]
+    },
+    {
+      "id": 103,
+      "title": "How to Stay Motivated and Productive",
+      "content": "Here are five science-backed methods to stay productive in a digital world...",
+      "author_id": 5,
+      "date_published": "2025-02-12",
+      "likes": 97,
+      "tags": ["Productivity", "Motivation", "Work"]
+    }
+  ]
