@@ -1,0 +1,601 @@
+{
+  "authors": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "bio": "Passionate writer and storyteller. Loves exploring historical fiction and sci-fi.",
+      "avatar": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": "2",
+      "name": "Brian Smith",
+      "email": "brian@example.com",
+      "bio": "Tech blogger and AI enthusiast. Writes about the latest in software development.",
+      "avatar": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": "3",
+      "name": "Clara Mendes",
+      "email": "clara@example.com",
+      "bio": "Poet and travel writer. Finds inspiration in cultures around the world.",
+      "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": "4",
+      "name": "Daniel Carter",
+      "email": "daniel@example.com",
+      "bio": "Business strategist and finance expert. Helps startups scale efficiently.",
+      "avatar": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": "5",
+      "name": "Emily Davis",
+      "email": "emily@example.com",
+      "bio": "Self-improvement and productivity coach. Writes about habits and motivation.",
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "6",
+      "name": "Francis Lee",
+      "email": "francis@example.com",
+      "bio": "Philosopher and deep thinker. Explores existentialism and modern society.",
+      "avatar": "https://i.pravatar.cc/150?img=6"
+    },
+    {
+      "id": "7",
+      "name": "Grace Wilson",
+      "email": "grace@example.com",
+      "bio": "Mental health advocate and psychologist. Shares insights on well-being.",
+      "avatar": "https://i.pravatar.cc/150?img=7"
+    },
+    {
+      "id": "8",
+      "name": "Henry Adams",
+      "email": "henry@example.com",
+      "bio": "Political analyst and history buff. Breaks down world events.",
+      "avatar": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "id": "9",
+      "name": "Ivy Moore",
+      "email": "ivy@example.com",
+      "bio": "Nutritionist and wellness writer. Talks about health and diet trends.",
+      "avatar": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+      "id": "10",
+      "name": "Jack Thompson",
+      "email": "jack@example.com",
+      "bio": "Film critic and pop culture enthusiast. Reviews movies and TV shows.",
+      "avatar": "https://i.pravatar.cc/150?img=10"
+    },
+    {
+      "id": "11",
+      "name": "Kylie Roberts",
+      "email": "kylie@example.com",
+      "bio": "Fashion blogger and designer. Writes about latest fashion trends.",
+      "avatar": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "id": "12",
+      "name": "Lucas Green",
+      "email": "lucas@example.com",
+      "bio": "Music producer and DJ. Explores music history and production techniques.",
+      "avatar": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "13",
+      "name": "Mia White",
+      "email": "mia@example.com",
+      "bio": "Children’s book author. Creates stories that inspire young minds.",
+      "avatar": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": "14",
+      "name": "Nathan Brown",
+      "email": "nathan@example.com",
+      "bio": "Adventure traveler and blogger. Explores off-the-beaten-path destinations.",
+      "avatar": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": "15",
+      "name": "Olivia King",
+      "email": "olivia@example.com",
+      "bio": "Science communicator and researcher. Simplifies complex topics for everyone.",
+      "avatar": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": "16",
+      "name": "KayCode King",
+      "email": "KayCode@example.com",
+      "bio": "Science communicator and researcher. Simplifies complex topics for everyone.",
+      "avatar": "https://i.pravatar.cc/150?img=16"
+    }
+  ],
+  "posts": [
+    {
+      "id": "101",
+      "title": "The Future of AI in Everyday Life",
+      "content": "Artificial Intelligence is rapidly transforming how we live and work...",
+      "author_id": 2,
+      "date_published": "2025-02-14",
+      "likes": 120,
+      "tags": [
+        "AI",
+        "Technology",
+        "Future"
+      ]
+    },
+    {
+      "id": "102",
+      "title": "Exploring the Ruins of Ancient Civilizations",
+      "content": "History holds fascinating secrets, and ancient ruins tell stories of forgotten times...",
+      "author_id": 1,
+      "date_published": "2025-02-13",
+      "likes": 85,
+      "tags": [
+        "History",
+        "Travel",
+        "Archaeology"
+      ]
+    },
+    {
+      "id": "103",
+      "title": "How to Stay Motivated and Productive",
+      "content": "Here are five science-backed methods to stay productive in a digital world...",
+      "author_id": 5,
+      "date_published": "2025-02-12",
+      "likes": 97,
+      "tags": [
+        "Productivity",
+        "Motivation",
+        "Work"
+      ]
+    },
+    {
+      "id": "104",
+      "title": "Ancient ocean exploration",
+      "content": "History holds fascinating secrets, and ancient ruins tell stories of forgotten times...",
+      "author_id": 16,
+      "date_published": "2025-02-18",
+      "likes": 1085,
+      "tags": [
+        "History",
+        "Travel",
+        "Archaeology"
+      ]
+    },
+    {
+      "id": "109",
+      "title": "testing grounds",
+      "content": "testing testing",
+      "author_id": 5,
+      "date_published": "2025-03-04",
+      "tags": [
+        "AI",
+        "Technology",
+        "Future"
+      ],
+      "likes": 243522346
+    }
+  ],
+  "comments": [
+    {
+      "post_id": 101,
+      "postTitle": "The Art of Storytelling",
+      "comments": [
+        {
+          "commentId": "1",
+          "author": "JaneDoe",
+          "content": "This is such an insightful post! I love how you break down the nuances of storytelling.",
+          "timestamp": "2023-10-01T12:34:56Z",
+          "replies": [
+            {
+              "commentId": "1.1",
+              "author": "JohnSmith",
+              "content": "I completely agree, Jane! The section on character development was particularly enlightening.",
+              "timestamp": "2023-10-01T13:00:00Z",
+              "replies": [
+                {
+                  "commentId": "1.1.1",
+                  "author": "AliceW",
+                  "content": "Yes, John! I think the author really nailed the importance of backstory.",
+                  "timestamp": "2023-10-01T13:15:00Z",
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "commentId": "1.2",
+              "author": "BobBrown",
+              "content": "I found the pacing section a bit rushed. What do you think, Jane?",
+              "timestamp": "2023-10-01T13:30:00Z",
+              "replies": [
+                {
+                  "commentId": "1.2.1",
+                  "author": "JaneDoe",
+                  "content": "I see your point, Bob. Maybe the author could expand on that in a follow-up post.",
+                  "timestamp": "2023-10-01T14:00:00Z",
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "commentId": "2",
+          "author": "EvaGreen",
+          "content": "I’ve been struggling with writer’s block, and this post gave me some fresh ideas. Thank you!",
+          "timestamp": "2023-10-02T09:15:00Z",
+          "replies": [
+            {
+              "commentId": "2.1",
+              "author": "MikeT",
+              "content": "Same here, Eva! The tips on brainstorming were especially helpful.",
+              "timestamp": "2023-10-02T10:00:00Z",
+              "replies": []
+            }
+          ]
+        },
+        {
+          "commentId": "3",
+          "author": "ChrisP",
+          "content": "Does anyone have recommendations for books on advanced storytelling techniques?",
+          "timestamp": "2023-10-02T11:45:00Z",
+          "replies": [
+            {
+              "commentId": "3.1",
+              "author": "LauraM",
+              "content": "I highly recommend 'Story' by Robert McKee. It’s a classic!",
+              "timestamp": "2023-10-02T12:00:00Z",
+              "replies": [
+                {
+                  "commentId": "3.1.1",
+                  "author": "ChrisP",
+                  "content": "Thanks, Laura! I’ll check it out.",
+                  "timestamp": "2023-10-02T12:15:00Z",
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "commentId": "3.2",
+              "author": "TomH",
+              "content": "'The Hero with a Thousand Faces' by Joseph Campbell is another great read.",
+              "timestamp": "2023-10-02T12:30:00Z",
+              "replies": []
+            }
+          ]
+        }
+      ],
+      "id": "736b"
+    },
+    {
+      "post_id": 102,
+      "postTitle": "Overcoming Writer's Block",
+      "comments": [
+        {
+          "commentId": "2",
+          "author": "EvaGreen",
+          "content": "I’ve been struggling with writer’s block, and this post gave me some fresh ideas. Thank you!",
+          "timestamp": "2023-10-02T09:15:00Z",
+          "replies": [
+            {
+              "commentId": "2.1",
+              "author": "MikeT",
+              "content": "Same here, Eva! The tips on brainstorming were especially helpful.",
+              "timestamp": "2023-10-02T10:00:00Z",
+              "replies": []
+            }
+          ]
+        },
+        {
+          "commentId": "3",
+          "author": "ChrisP",
+          "content": "Does anyone have recommendations for books on advanced storytelling techniques?",
+          "timestamp": "2023-10-02T11:45:00Z",
+          "replies": [
+            {
+              "commentId": "3.1",
+              "author": "LauraM",
+              "content": "I highly recommend 'Story' by Robert McKee. It’s a classic!",
+              "timestamp": "2023-10-02T12:00:00Z",
+              "replies": [
+                {
+                  "commentId": "3.1.1",
+                  "author": "ChrisP",
+                  "content": "Thanks, Laura! I’ll check it out.",
+                  "timestamp": "2023-10-02T12:15:00Z",
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "commentId": "3.2",
+              "author": "TomH",
+              "content": "'The Hero with a Thousand Faces' by Joseph Campbell is another great read.",
+              "timestamp": "2023-10-02T12:30:00Z",
+              "replies": []
+            }
+          ]
+        }
+      ],
+      "id": "e4d5"
+    },
+    {
+      "post_id": 103,
+      "postTitle": "The Power of Dialogue in Fiction",
+      "comments": [
+        {
+          "commentId": "4",
+          "author": "SarahL",
+          "content": "This post really opened my eyes to how dialogue can drive a story forward. Great job!",
+          "timestamp": "2023-10-03T08:00:00Z",
+          "replies": [
+            {
+              "commentId": "4.1",
+              "author": "MarkR",
+              "content": "I agree, Sarah! The examples were spot on.",
+              "timestamp": "2023-10-03T08:30:00Z",
+              "replies": []
+            }
+          ]
+        },
+        {
+          "commentId": "6",
+          "author": "Karabo",
+          "content": "Honk That Bitch!",
+          "timestamp": "2025-02-03T08:00:00Z",
+          "replies": []
+        },
+        {
+          "commentId": "5",
+          "author": "EmilyW",
+          "content": "I’d love to see more examples of dialogue in different genres. Any suggestions?",
+          "timestamp": "2023-10-03T09:00:00Z",
+          "replies": [
+            {
+              "commentId": "5.1",
+              "author": "SarahL",
+              "content": "Emily, I recommend reading 'The Catcher in the Rye' for realistic dialogue and 'Dune' for sci-fi.",
+              "timestamp": "2023-10-03T09:15:00Z",
+              "replies": [
+                {
+                  "commentId": "5.1.1",
+                  "author": "EmilyW",
+                  "content": "Thanks, Sarah! I’ll add those to my reading list.",
+                  "timestamp": "2023-10-03T09:30:00Z",
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": "19c1"
+    },
+    {
+      "post_id": 100002309,
+      "postTitle": "The Power of Dialogue in Fiction",
+      "comments": [
+        {
+          "commentId": "4",
+          "author": "SarahL",
+          "content": "This post really opened my eyes to how dialogue can drive a story forward. Great job!",
+          "timestamp": "2023-10-03T08:00:00Z",
+          "replies": []
+        }
+      ],
+      "id": "19c1"
+    },
+    {
+      "id": "fc0b",
+      "post_id": 109,
+      "comments": [
+        {
+          "commentId": "1",
+          "author": "KayCode",
+          "content": "test yes",
+          "timestamp": "2025-03-10T19:50:43.824Z",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "08af",
+      "post_id": 101,
+      "comments": [
+        {
+          "commentId": "1",
+          "author": "KayCode",
+          "content": "what furture??",
+          "timestamp": "2025-03-13T22:42:13.640Z",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "c78e",
+      "post_id": 104,
+      "comments": [
+        {
+          "commentId": "1",
+          "author": "KayCode",
+          "content": "The ocean holds the secrets of life.",
+          "timestamp": "2025-03-13T22:44:18.891Z",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "320b",
+      "post_id": 109,
+      "comments": [
+        {
+          "commentId": "1",
+          "author": "KayCode",
+          "content": "yea we are damn testing this shit.",
+          "timestamp": "2025-03-13T22:44:55.288Z",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "7a2c",
+      "post_id": 109,
+      "comments": [
+        {
+          "commentId": "1",
+          "author": "KayCode",
+          "content": "read\n",
+          "timestamp": "2025-03-14T10:37:45.601Z",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "id": "f55c",
+      "post_id": 109,
+      "comments": [
+        {
+          "commentId": "1",
+          "author": "KayCode",
+          "content": "read\n",
+          "timestamp": "2025-03-14T10:37:46.618Z",
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "comment": [
+    {
+      "id": "1",
+      "post_id": 101,
+      "author_id": 1,
+      "content": "This is such an insightful post! I love how you break down the nuances of storytelling.",
+      "timestamp": "2023-10-01T12:34:56Z",
+      "parent_comment_id": null
+    },
+    {
+      "id": "2",
+      "post_id": 101,
+      "author_id": 2,
+      "content": "I completely agree, Jane! The section on character development was particularly enlightening.",
+      "timestamp": "2023-10-01T13:00:00Z",
+      "parent_comment_id": 1
+    },
+    {
+      "id": "3",
+      "post_id": 101,
+      "author_id": 3,
+      "content": "Yes, John! I think the author really nailed the importance of backstory.",
+      "timestamp": "2023-10-01T13:15:00Z",
+      "parent_comment_id": 2
+    },
+    {
+      "id": "4",
+      "post_id": 101,
+      "author_id": 4,
+      "content": "I found the pacing section a bit rushed. What do you think, Jane?",
+      "timestamp": "2023-10-01T13:30:00Z",
+      "parent_comment_id": 1
+    },
+    {
+      "id": "5",
+      "post_id": 101,
+      "author_id": 1,
+      "content": "I see your point, Bob. Maybe the author could expand on that in a follow-up post.",
+      "timestamp": "2023-10-01T14:00:00Z",
+      "parent_comment_id": 4
+    },
+    {
+      "id": "6",
+      "post_id": 102,
+      "author_id": 5,
+      "content": "I’ve been struggling with writer’s block, and this post gave me some fresh ideas. Thank you!",
+      "timestamp": "2023-10-02T09:15:00Z",
+      "parent_comment_id": null
+    },
+    {
+      "id": "7",
+      "post_id": 102,
+      "author_id": 6,
+      "content": "Same here, Eva! The tips on brainstorming were especially helpful.",
+      "timestamp": "2023-10-02T10:00:00Z",
+      "parent_comment_id": 6
+    },
+    {
+      "id": "8",
+      "post_id": 102,
+      "author": "KayCode",
+      "content": "sdfsdfsdasdfasdfsadf",
+      "timestamp": "2025-03-06T15:03:43.042Z",
+      "replies": []
+    },
+    {
+      "id": "9",
+      "post_id": 102,
+      "author": "KayCode",
+      "content": "Im here",
+      "timestamp": "2025-03-06T15:03:58.599Z",
+      "replies": []
+    },
+    {
+      "id": "10",
+      "post_id": 103,
+      "author": "KayCode",
+      "content": "stay fresh",
+      "timestamp": "2025-03-06T15:04:29.023Z",
+      "replies": []
+    },
+    {
+      "id": "11",
+      "post_id": 103,
+      "author": "KayCode",
+      "content": "FR",
+      "timestamp": "2025-03-06T15:04:51.693Z",
+      "replies": []
+    },
+    {
+      "id": "12",
+      "post_id": 101,
+      "author": "KayCode",
+      "content": "sfd",
+      "timestamp": "2025-03-08T17:25:32.546Z",
+      "replies": []
+    }
+  ],
+  "likes": [
+    {
+      "id": "101",
+      "author_id": 2,
+      "date_published": "2025-02-18",
+      "likes": 120
+    },
+    {
+      "id": "109",
+      "author_id": 5,
+      "likes": 243522346,
+      "date_published": "2025-02-18"
+    },
+    {
+      "id": "104",
+      "author_id": 16,
+      "date_published": "2025-02-18",
+      "likes": 1085
+    },
+    {
+      "id": "103",
+      "author_id": 5,
+      "date_published": "2025-02-12",
+      "likes": 97
+    },
+    {
+      "id": "102",
+      "author_id": 1,
+      "date_published": "2025-02-13",
+      "likes": 85
+    }
+  ]
+}
